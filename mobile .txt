@@ -1,2 +1,4 @@
 name : oppo
 version : 21spro
+Ram : 6 gb
+vesion : 22spro
