@@ -1,0 +1,8 @@
+name : oppo
+version : 21spro
+Ram : 6 gb
+vesion : 22s
+version : 23
+version : 24
+version : 26
+version : 200.0
